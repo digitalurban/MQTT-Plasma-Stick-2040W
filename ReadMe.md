@@ -11,7 +11,7 @@ The scripts provides a quick and easy way to visualise data coming in via an MQT
 Our example uses a Ships Lamp to visualise Wind Speed from a live feed provided from a Davis Vantage Pro 2 weather station out of the Connected Environments Lab at University College London. The colour of the ships lamp changes, every 3 seconds, from Green to Red over a spread of 0 to 40mph. 
 
 
-![MQTT Ships Lamp](https://connected-environments.org/wp-content/uploads/2022/11/IMG_1495-scaled.jpeg)
+![MQTT Ships Lamp](https://github.com/ucl-casa-ce/Open-Gauges/blob/main/Contributed/ShipsLamp/shipslamp.jpeg)
 
 Copy all the files to your Plasma Stoick 2040 W using Thonny - edit config.py to add your Wifi and MQTT broker credentials.
 
